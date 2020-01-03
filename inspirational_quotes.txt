@@ -5,3 +5,5 @@ It always seems impossible until it's done - Nelson Mandela
 A new quote to check MERGE. -- Shridhar
 
 A new quote to check pushing to Github. -- Shridhar
+
+Changed to test pull functionality. -- Shridhar
